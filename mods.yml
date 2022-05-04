@@ -115,8 +115,9 @@
     major: 1
     minor: 1
     patch: 0
-  enabled: false
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Foldex-ArtiTweaks\1.1.0\icon.png
+  enabled: true
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
+    Testing\BepInEx\plugins\Foldex-ArtiTweaks\icon.png
 - manifestVersion: 1
   name: KrononConspirator-MadVeteran_Skinpack
   authorName: KrononConspirator
@@ -1973,4 +1974,5 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Bubbet-NetworkedTimedBuffs\1.0.1\icon.png
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
+    Testing\BepInEx\plugins\Bubbet-NetworkedTimedBuffs\icon.png

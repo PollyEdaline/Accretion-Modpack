@@ -2043,4 +2043,28 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Polly-Accretion_Text_Overrides\1.0.0\icon.png
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
+    Testing\BepInEx\plugins\Polly-Accretion_Text_Overrides\icon.png
+- manifestVersion: 1
+  name: Bubbet-PickupDiscoveryPatch
+  authorName: Bubbet
+  websiteUrl: https://thunderstore.io/package/Bubbet/PickupDiscoveryPatch/
+  displayName: PickupDiscoveryPatch
+  description: Stores the pickups you discover in the steam cloud, and seperate
+    from your profile so when you play vanilla and then come back to modded you
+    will still have your pickups discovered.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.1902
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Bubbet-PickupDiscoveryPatch\0.2.0\icon.png

@@ -47,7 +47,7 @@ CHANGELOG
 - Added Antique Captain skin by the incomparable dotflare.
 - Added Mecha Dragon Railgunner skin by the ever-amazing Mika.
 - Added Networked Timed Buffs by the wonderful Bubbet.
-- Added Accretion Text Overrides, which was already included but is now uploaded to the Thunderstore.
+- Added Accretion Text Overrides, which was already included but is now uploaded to the Thunderstore instead.
 - Restored HAN-D.
 - Restored ClassicItems.
 - Restored MysticsItems.

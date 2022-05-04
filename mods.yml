@@ -1976,3 +1976,71 @@
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Bubbet-NetworkedTimedBuffs\icon.png
+- manifestVersion: 1
+  name: PlasmaCore3-Forgotten_Relics
+  authorName: PlasmaCore3
+  websiteUrl: https://thunderstore.io/package/PlasmaCore3/Forgotten_Relics/
+  displayName: Forgotten_Relics
+  description: "NOTE: STAGES DO NOT WORK IN THE CURRENT VERSION. THIS ONLY VERSION
+    ONLY CONTAINS ENEMIES."
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.1905
+    - tristanmcpherson-R2API-4.3.21
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 5
+  enabled: true
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
+    Testing\BepInEx\plugins\PlasmaCore3-Forgotten_Relics\icon.png
+- manifestVersion: 1
+  name: Harb-AssetPlusRequester
+  authorName: Harb
+  websiteUrl: https://thunderstore.io/package/Harb/AssetPlusRequester/
+  displayName: AssetPlusRequester
+  description: Tell R2API to enable the AssetPlus module
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - tristanmcpherson-R2API-2.3.22
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
+    Testing\BepInEx\plugins\Harb-AssetPlusRequester\icon.png
+- manifestVersion: 1
+  name: Polly-Accretion_Text_Overrides
+  authorName: Polly
+  websiteUrl: https://thunderstore.io/package/Polly/Accretion_Text_Overrides/
+  displayName: Accretion_Text_Overrides
+  description: Overrides some text for the modpack Accretion, most notably some
+    Survivor overviews.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - Harb-AssetPlusRequester-1.0.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Polly-Accretion_Text_Overrides\1.0.0\icon.png

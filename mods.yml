@@ -637,29 +637,6 @@
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\konomiyu-FreeNewtAltars\icon.png
 - manifestVersion: 1
-  name: arimah-PerfectedLoop
-  authorName: arimah
-  websiteUrl: https://thunderstore.io/package/arimah/PerfectedLoop/
-  displayName: PerfectedLoop
-  description: Makes Perfected Elites spawn after looping.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - bbepis-BepInExPack-5.4.1901
-    - tristanmcpherson-R2API-4.0.11
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 2
-    patch: 2
-  enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
-    Testing\BepInEx\plugins\arimah-PerfectedLoop\icon.png
-- manifestVersion: 1
   name: RandomlyAwesome-SnappierStalks
   authorName: RandomlyAwesome
   websiteUrl: https://thunderstore.io/package/RandomlyAwesome/SnappierStalks/

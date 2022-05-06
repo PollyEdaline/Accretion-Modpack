@@ -494,6 +494,29 @@
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Moffein-EliteReworks\icon.png
 - manifestVersion: 1
+  name: kking117-QueenGlandBuff
+  authorName: kking117
+  websiteUrl: https://thunderstore.io/package/kking117/QueenGlandBuff/
+  displayName: QueenGlandBuff
+  description: Buffs Beeble Guards by making them absolute units.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.1905
+    - tristanmcpherson-R2API-4.3.5
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 2
+  enabled: true
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
+    Testing\BepInEx\plugins\kking117-QueenGlandBuff\icon.png
+- manifestVersion: 1
   name: TheMysticSword-MysticsRisky2Utils
   authorName: TheMysticSword
   websiteUrl: https://thunderstore.io/package/TheMysticSword/MysticsRisky2Utils/
@@ -2023,3 +2046,25 @@
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Bubbet-PickupDiscoveryPatch\icon.png
+- manifestVersion: 1
+  name: Rune580-StopStealingMyMouse
+  authorName: Rune580
+  websiteUrl: https://thunderstore.io/package/Rune580/StopStealingMyMouse/
+  displayName: StopStealingMyMouse
+  description: Stops RoR2 from stealing your mouse during load.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.1903
+    - RiskofThunder-HookGenPatcher-1.2.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Rune580-StopStealingMyMouse\1.0.0\icon.png

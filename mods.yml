@@ -494,29 +494,6 @@
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Moffein-EliteReworks\icon.png
 - manifestVersion: 1
-  name: kking117-QueenGlandBuff
-  authorName: kking117
-  websiteUrl: https://thunderstore.io/package/kking117/QueenGlandBuff/
-  displayName: QueenGlandBuff
-  description: Buffs Beeble Guards by making them absolute units.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - bbepis-BepInExPack-5.4.1905
-    - tristanmcpherson-R2API-4.3.5
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 3
-    patch: 1
-  enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
-    Testing\BepInEx\plugins\kking117-QueenGlandBuff\icon.png
-- manifestVersion: 1
   name: TheMysticSword-MysticsRisky2Utils
   authorName: TheMysticSword
   websiteUrl: https://thunderstore.io/package/TheMysticSword/MysticsRisky2Utils/
@@ -1643,8 +1620,8 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 5
-    patch: 0
+    minor: 6
+    patch: 1
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Bubbet-WhatAmILookingAt\icon.png
@@ -1877,8 +1854,8 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 4
-    patch: 11
+    minor: 5
+    patch: 1
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Moffein-Risky_Artifacts\icon.png
@@ -1903,7 +1880,7 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 12
+    patch: 13
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\1nsider-1nsiderItems\icon.png

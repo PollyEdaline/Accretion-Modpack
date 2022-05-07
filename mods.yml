@@ -1074,13 +1074,13 @@
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.1902
-    - tristanmcpherson-R2API-4.3.5
+    - tristanmcpherson-R2API-4.3.21
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 7
-    minor: 0
-    patch: 1
+    minor: 1
+    patch: 0
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\ThinkInvis-TILER2\icon.png
@@ -1381,17 +1381,16 @@
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.1902
-    - tristanmcpherson-R2API-4.3.5
-    - ThinkInvis-TILER2-7.0.1
+    - tristanmcpherson-R2API-4.3.21
+    - ThinkInvis-TILER2-7.1.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 7
-    minor: 0
+    minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
-    Testing\BepInEx\plugins\ThinkInvis-ClassicItems\icon.png
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\ThinkInvis-ClassicItems\7.1.0\icon.png
 - manifestVersion: 1
   name: duckduckgreyduck-GreenAlienHead
   authorName: duckduckgreyduck
@@ -1458,7 +1457,7 @@
   versionNumber:
     major: 2
     minor: 3
-    patch: 2
+    patch: 3
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\VarnaScelestus-Ephemeral_Coins\icon.png
@@ -2115,4 +2114,5 @@
     minor: 0
     patch: 75
   enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Shasocais-Melting_Pot\0.0.75\icon.png
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
+    Testing\BepInEx\plugins\Shasocais-Melting_Pot\icon.png

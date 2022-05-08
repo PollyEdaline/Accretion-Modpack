@@ -536,7 +536,7 @@
   versionNumber:
     major: 2
     minor: 0
-    patch: 3
+    patch: 4
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\TheMysticSword-MysticsRisky2Utils\icon.png
@@ -555,13 +555,13 @@
     - bbepis-BepInExPack-5.4.1905
     - tristanmcpherson-R2API-4.3.5
     - RiskofThunder-HookGenPatcher-1.2.3
-    - TheMysticSword-MysticsRisky2Utils-2.0.3
+    - TheMysticSword-MysticsRisky2Utils-2.0.4
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 2
     minor: 0
-    patch: 12
+    patch: 13
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\TheMysticSword-MysticsItems\icon.png
@@ -1390,7 +1390,8 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\ThinkInvis-ClassicItems\7.1.0\icon.png
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
+    Testing\BepInEx\plugins\ThinkInvis-ClassicItems\icon.png
 - manifestVersion: 1
   name: duckduckgreyduck-GreenAlienHead
   authorName: duckduckgreyduck
@@ -2058,12 +2059,11 @@
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.1903
-    - RiskofThunder-HookGenPatcher-1.2.3
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
+    minor: 2
     patch: 0
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
@@ -2075,7 +2075,7 @@
   displayName: BubbetsItems
   description: |-
     An expansion item mod.
-    Currently has, and 13 regular items, 2 equipment, 7 void items
+    Currently has 13 regular items, 2 equipment, and 7 void items
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -2088,7 +2088,7 @@
   versionNumber:
     major: 1
     minor: 7
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Bubbet-BubbetsItems\icon.png
@@ -2116,3 +2116,71 @@
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Shasocais-Melting_Pot\icon.png
+- manifestVersion: 1
+  name: LexLamb-MechArtificer
+  authorName: LexLamb
+  websiteUrl: https://thunderstore.io/package/LexLamb/MechArtificer/
+  displayName: MechArtificer
+  description: Adds a blockier, more militaristic look for the Artificer
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.1902
+    - tristanmcpherson-R2API-4.0.11
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
+    Testing\BepInEx\plugins\LexLamb-MechArtificer\icon.png
+- manifestVersion: 1
+  name: Chirimorin-ArtifactOfFamily
+  authorName: Chirimorin
+  websiteUrl: https://thunderstore.io/package/Chirimorin/ArtifactOfFamily/
+  displayName: ArtifactOfFamily
+  description: Get a family event on every stage!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.1902
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
+    Testing\BepInEx\plugins\Chirimorin-ArtifactOfFamily\icon.png
+- manifestVersion: 1
+  name: Amadare-RailCharges
+  authorName: Amadare
+  websiteUrl: https://thunderstore.io/package/Amadare/RailCharges/
+  displayName: RailCharges
+  description: Displays available charges count for Railgunner with Backup Magazines
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.1903
+    - RiskofThunder-HookGenPatcher-1.2.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
+    Testing\BepInEx\plugins\Amadare-RailCharges\icon.png

@@ -1650,29 +1650,6 @@
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Bubbet-WhatAmILookingAt\icon.png
 - manifestVersion: 1
-  name: PlasmaCore3-MELT
-  authorName: PlasmaCore3
-  websiteUrl: https://thunderstore.io/package/PlasmaCore3/MELT/
-  displayName: MELT
-  description: A survivor heavily based on MULT.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - bbepis-BepInExPack-5.4.1903
-    - tristanmcpherson-R2API-4.3.5
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 2
-    patch: 7
-  enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
-    Testing\BepInEx\plugins\PlasmaCore3-MELT\icon.png
-- manifestVersion: 1
   name: Heyimnoob-UsurperPaladin
   authorName: Heyimnoob
   websiteUrl: https://thunderstore.io/package/Heyimnoob/UsurperPaladin/
@@ -2229,4 +2206,5 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Zenithrium-VanillaVoid\1.1.0\icon.png
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
+    Testing\BepInEx\plugins\Zenithrium-VanillaVoid\icon.png

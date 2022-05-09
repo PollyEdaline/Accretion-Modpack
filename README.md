@@ -2,6 +2,8 @@ ACCRETION
 =========
 **NOTE: If you are updating the modpack, you will need to delete your profile in your mod manager and download the modpack again. This is a limitation of the way Thunderstore handles modpacks and there is nothing I can do about it.**
 
+**Join the community** over at itch.io for discussion, bug reports, or feedback! https://pollychan.itch.io/accretion-modpack/community
+
 ***ACCRETION*** is an expansion and overhaul modpack for Risk of Rain 2. The aim of the modpack is to add highly polished new content to the game, while improving the vanilla experience to a significant degree. Careful attention has been paid to the balance between individual mods and to providing an out of the box high quality experience for all players.
 
 This modpack is intended to be played from either an existing save or a brand new save. New players to the game should ideally have an experience that is at least as stable as vanilla, while still being able to unlock everything they would normally be able to unlock. Veteran players will find a significant amount of new content and changes to play around with.
@@ -35,14 +37,20 @@ Due to the extensive number of changes, the full changelog is kept in a separate
 
 CONTACT
 ----
-If you would like to report bugs, make suggestions, or have any other feedback, I can be reached on Discord at Pollychan#8281. I am also in the Risk of Rain 2 Modding discord. Although I have tested the pack extensively myself, there are likely to be many bugs and balancing issues I overlooked. I will attempt to fix any bugs I can as soon as possible.
+If you would like to report bugs, make suggestions, or have any other feedback, I can be reached on Discord at Pollychan#8281. I am also in the Risk of Rain 2 Modding discord. Although I have tested the pack extensively myself, there are likely to be many bugs and balancing issues I overlooked. I will attempt to fix any bugs I can as soon as possible. I don’t play multiplayer a whole lot, so I have some difficulty testing multiplayer. If you encounter any bugs or oddities, please let me know.
 
-I don’t play multiplayer a whole lot, so I have some difficulty testing multiplayer. If you encounter any bugs or oddities, please let me know.
+You can also post on the [itch.io community](https://pollychan.itch.io/accretion-modpack/community) if you have any feedback or bug reports, or find others to play with. There is also a [github](https://github.com/PollyEdaline/Accretion-Modpack) if you would prefer to post issues there.
 
 I am also interested in working with an experienced mod creator on adding some additional content and tweaks to the pack. If you are willing to work with me, please let me know.
 
 CHANGELOG
 ----
+**3.0.2**
+- Added a [community](https://pollychan.itch.io/accretion-modpack/community) on itch.io where people can post feedback and report bugs.
+
+**3.0.1**
+- Fixed the readme (oops).
+
 **3.0.0**
 
 - Actually updated the changelist for the current version (sorry about that).

@@ -512,7 +512,7 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 2
+    patch: 3
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\kking117-QueenGlandBuff\icon.png
@@ -536,7 +536,7 @@
   versionNumber:
     major: 2
     minor: 0
-    patch: 4
+    patch: 5
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\TheMysticSword-MysticsRisky2Utils\icon.png
@@ -1570,12 +1570,13 @@
     - bbepis-BepInExPack-5.4.1905
     - tristanmcpherson-R2API-4.3.21
     - Moffein-AI_Blacklist-1.4.5
+    - Rune580-Risk_Of_Options-2.5.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 1
-    patch: 4
+    patch: 5
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\HIFU-Inferno\icon.png
@@ -2184,3 +2185,48 @@
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Amadare-RailCharges\icon.png
+- manifestVersion: 1
+  name: RumblingJOSEPH-VoidItemAPI
+  authorName: RumblingJOSEPH
+  websiteUrl: https://thunderstore.io/package/RumblingJOSEPH/VoidItemAPI/
+  displayName: VoidItemAPI
+  description: An API for easily initializing transformations for custom void items.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.1903
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
+    Testing\BepInEx\plugins\RumblingJOSEPH-VoidItemAPI\icon.png
+- manifestVersion: 1
+  name: Zenithrium-VanillaVoid
+  authorName: Zenithrium
+  websiteUrl: https://thunderstore.io/package/Zenithrium/VanillaVoid/
+  displayName: VanillaVoid
+  description: Adds more void variants for vanilla items.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.1903
+    - tristanmcpherson-R2API-4.3.5
+    - RumblingJOSEPH-VoidItemAPI-1.1.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Zenithrium-VanillaVoid\1.1.0\icon.png

@@ -2047,30 +2047,6 @@
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Rune580-StopStealingMyMouse\icon.png
 - manifestVersion: 1
-  name: Bubbet-BubbetsItems
-  authorName: Bubbet
-  websiteUrl: https://thunderstore.io/package/Bubbet/BubbetsItems/
-  displayName: BubbetsItems
-  description: |-
-    An expansion item mod.
-    Currently has 13 regular items, 2 equipment, and 7 void items
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - bbepis-BepInExPack-5.4.1902
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 7
-    patch: 1
-  enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
-    Testing\BepInEx\plugins\Bubbet-BubbetsItems\icon.png
-- manifestVersion: 1
   name: Shasocais-Melting_Pot
   authorName: Shasocais
   websiteUrl: https://thunderstore.io/package/Shasocais/Melting_Pot/

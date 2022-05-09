@@ -1,7 +1,7 @@
 {
     "name": "Accretion",
-    "version_number": "3.0.1",
-    "website_url": "https://github.com/PollyEdaline/Accretion-Modpack",
+    "version_number": "3.0.2",
+    "website_url": "https://pollychan.itch.io/accretion-modpack/community",
     "description": "A polished overhaul modpack for Risk of Rain 2 that adds survivors, items, artifacts, and more. Includes many quality of life changes and major gameplay overhauls. Intended for new players and veterans alike. Please make a new profile when updating.",
     "dependencies": [
             "bbepis-BepInExPack-5.4.1905",

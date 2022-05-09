@@ -8,11 +8,12 @@ This modpack is intended to be played from either an existing save or a brand ne
 
 Currently adds:
 - 5 Survivors.
-- 60+ Items.
-- 19 Artifacts.
+- 75+ Items.
+- 22 Artifacts.
 - 3 Enemies.
+- 2 Bosses.
+- 45+ Skins.
 - 6 Difficulties.
-- 30+ Skins.
 - Offline Prismatic Trials.
 
 Many of the changes come from the excellent RiskyMod by Moffein. The changes have been mirrored in the full changelog below, but you are encouraged to check out the mod on the Thunderstore, which also links to a full changelog that goes into further detail about the design philosophy of the overhaul.
@@ -34,7 +35,7 @@ Due to the extensive number of changes, the full changelog is kept in a separate
 
 CONTACT
 ----
-If you would like to report bugs, make suggestions, or have any other feedback, I can be reached on Discord at Polly#8281. I am also in the Risk of Rain 2 Modding discord. Although I have tested the pack extensively myself, there are likely to be many bugs and balancing issues I overlooked. I will attempt to fix any bugs I can as soon as possible.
+If you would like to report bugs, make suggestions, or have any other feedback, I can be reached on Discord at Pollychan#8281. I am also in the Risk of Rain 2 Modding discord. Although I have tested the pack extensively myself, there are likely to be many bugs and balancing issues I overlooked. I will attempt to fix any bugs I can as soon as possible.
 
 I don’t play multiplayer a whole lot, so I have some difficulty testing multiplayer. If you encounter any bugs or oddities, please let me know.
 
@@ -42,17 +43,34 @@ I am also interested in working with an experienced mod creator on adding some a
 
 CHANGELOG
 ----
-**2.2.0**
-- Should be updated for the latest patch now. All mods have been updated.
-- Added Antique Captain skin by the incomparable dotflare.
-- Added Mecha Dragon Railgunner skin by the ever-amazing Mika.
-- Added Networked Timed Buffs by the wonderful Bubbet.
-- Added Accretion Text Overrides, which was already included but is now uploaded to the Thunderstore.
-- Restored HAN-D.
-- Restored ClassicItems.
-- Restored MysticsItems.
-- Restored GreenAlienHead.
-- Restored Risky Artifacts.
-- Removed BetterAPI (was used by MoreShrines, which was removed).
-- Added .modpack file, which apparently tells r2modman that this is a modpack. Thanks to blazingdrummer on Discord for this tip.
-- Started using [version control](https://github.com/PollyEdaline/Accretion-Modpack) on Github for the modpack.
+**3.0.1**
+Fixed the readme (oops).
+
+**3.0.0**
+
+- Actually updated the changelist for the current version (sorry about that).
+- Many changes have been made to RiskyMod that I neglected to mention. Please see the main RiskyMod page for details.
+- A significant amount of items have been added from 1nsiderItems, Melting Pot, VanillaVoid, and Hex3Mod. They have been added to the main changelist.
+- A number of new skins have been added.
+- Removed the following mods:
+  - MEL-T
+     - Doesn’t feel quite polished enough, sadly. Feels not great to play to me. Might add back later.
+  - Perfected Loop
+    - My partner pointed out that this mod wasn’t very lore friendly, and I rarely saw them come up anyway.
+- Added the following mods:
+  - PickupDiscoveryPatch
+    - Saves logbook discovery on the cloud.
+  - StopStealingMyMouse
+    - Stops the game from stealing your mouse during load.
+  - RailCharges
+    - Displays available charges count for Railgunner with Backup Magazines.
+  - VanillaVoid
+    - Adds a bunch of Void versions of Vanilla items.
+  - Artifact of Family
+    - New Artifact that gives a family event on each stage.
+- TinkersSatchel
+  - Enabled Go-Faster Stripes.
+  - Disabled Timelost Rum.
+- ClassicItems
+  - Disabled gold-related items, as they are incompatible with ShareSuite. (Pillage, Life Savings, Golden Gun).
+- Fixed some configs that had been regenerated and were not properly working since 2.0.1.

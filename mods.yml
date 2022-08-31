@@ -15,9 +15,9 @@
   versionNumber:
     major: 5
     minor: 4
-    patch: 1905
+    patch: 2102
   enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\bbepis-BepInExPack\5.4.1905\icon.png
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\bbepis-BepInExPack\5.4.2102\icon.png
 - manifestVersion: 1
   name: Wolfo-FixedSpawnDissonance
   authorName: Wolfo
@@ -91,7 +91,7 @@
   versionNumber:
     major: 2
     minor: 0
-    patch: 4
+    patch: 5
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Wolfo-WolfoQualityOfLife\icon.png
@@ -137,7 +137,7 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 3
+    minor: 4
     patch: 2
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
@@ -166,31 +166,6 @@
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Xatha-SoCRebalancePlugin\icon.png
 - manifestVersion: 1
-  name: Groove_Salad-NetworkedItemTransformNotifications
-  authorName: Groove_Salad
-  websiteUrl: https://thunderstore.io/package/Groove_Salad/NetworkedItemTransformNotifications/
-  displayName: NetworkedItemTransformNotifications
-  description: Allows clients in multiplayer lobbies to properly view their item
-    transformations - see how Benthic Bloom is derailing your run, your 12
-    Delicate Watches breaking, etc..
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - bbepis-BepInExPack-5.4.1903
-    - tristanmcpherson-R2API-4.3.5
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 0
-  enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
-    Testing\BepInEx\plugins\Groove_Salad-NetworkedItemTransformNotifications\icon.png
-- manifestVersion: 1
   name: EnforcerGang-HAND_OVERCLOCKED
   authorName: EnforcerGang
   websiteUrl: https://thunderstore.io/package/EnforcerGang/HAND_OVERCLOCKED/
@@ -202,14 +177,14 @@
   installMode: managed
   loaders: []
   dependencies:
-    - bbepis-BepInExPack-5.4.1902
-    - tristanmcpherson-R2API-4.0.11
+    - bbepis-BepInExPack-5.4.1905
+    - tristanmcpherson-R2API-4.4.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 0
     minor: 2
-    patch: 6
+    patch: 7
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\EnforcerGang-HAND_OVERCLOCKED\icon.png
@@ -225,14 +200,15 @@
   installMode: managed
   loaders: []
   dependencies:
-    - tristanmcpherson-R2API-4.3.5
+    - tristanmcpherson-R2API-4.4.1
     - bbepis-BepInExPack-5.4.1903
+    - Moffein-FixDamageTrailNullref-1.0.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 4
-    patch: 2
+    minor: 5
+    patch: 1
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Moffein-Ancient_Wisp\icon.png
@@ -277,8 +253,8 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
-    patch: 9
+    minor: 1
+    patch: 1
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\dotflare-LostThroughTimeSkinPack\icon.png
@@ -288,7 +264,7 @@
   websiteUrl: https://thunderstore.io/package/EnforcerGang/Enforcer/
   displayName: Enforcer
   description: Adds the Enforcer from Risk of Rain 1 as a fully fleshed out
-    playable survivor.
+    playable survivor. | Full VR support!
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -301,8 +277,8 @@
   optionalDependencies: []
   versionNumber:
     major: 3
-    minor: 3
-    patch: 9
+    minor: 5
+    patch: 0
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\EnforcerGang-Enforcer\icon.png
@@ -311,22 +287,22 @@
   authorName: HIFU
   websiteUrl: https://thunderstore.io/package/HIFU/HIFUEngineerTweaks/
   displayName: HIFUEngineerTweaks
-  description: Reset your configs! Tweaks Default Engineer to be a sidegrade,
-    brings him closer to RoR1 and makes him less reliant on turrets.
+  description: Tweaks Default Engineer to be a sidegrade, brings him closer to
+    RoR1 and makes him less reliant on turrets.
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
   loaders: []
   dependencies:
-    - bbepis-BepInExPack-5.4.1903
-    - tristanmcpherson-R2API-4.3.5
+    - bbepis-BepInExPack-5.4.1905
+    - tristanmcpherson-R2API-4.4.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 0
-    patch: 5
+    patch: 7
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\HIFU-HIFUEngineerTweaks\icon.png
@@ -343,13 +319,13 @@
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.1903
-    - tristanmcpherson-R2API-4.3.5
+    - tristanmcpherson-R2API-4.4.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 4
-    patch: 2
+    patch: 5
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Moffein-Clay_Men\icon.png
@@ -389,15 +365,15 @@
   installMode: managed
   loaders: []
   dependencies:
-    - bbepis-BepInExPack-5.4.1902
-    - tristanmcpherson-R2API-4.3.21
-    - ThinkInvis-TILER2-7.0.1
+    - bbepis-BepInExPack-5.4.1905
+    - tristanmcpherson-R2API-4.4.1
+    - ThinkInvis-TILER2-7.3.2
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 2
-    minor: 3
-    patch: 3
+    major: 3
+    minor: 5
+    patch: 0
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\ThinkInvis-TinkersSatchel\icon.png
@@ -483,13 +459,13 @@
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.1903
-    - tristanmcpherson-R2API-4.1.1
+    - tristanmcpherson-R2API-4.4.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 6
-    patch: 0
+    minor: 7
+    patch: 3
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Moffein-EliteReworks\icon.png
@@ -512,7 +488,7 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 4
+    patch: 5
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\kking117-QueenGlandBuff\icon.png
@@ -536,7 +512,7 @@
   versionNumber:
     major: 2
     minor: 0
-    patch: 5
+    patch: 7
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\TheMysticSword-MysticsRisky2Utils\icon.png
@@ -555,13 +531,13 @@
     - bbepis-BepInExPack-5.4.1905
     - tristanmcpherson-R2API-4.3.5
     - RiskofThunder-HookGenPatcher-1.2.3
-    - TheMysticSword-MysticsRisky2Utils-2.0.4
+    - TheMysticSword-MysticsRisky2Utils-2.0.6
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 2
     minor: 0
-    patch: 13
+    patch: 16
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\TheMysticSword-MysticsItems\icon.png
@@ -577,14 +553,14 @@
   installMode: managed
   loaders: []
   dependencies:
-    - tristanmcpherson-R2API-4.0.11
-    - bbepis-BepInExPack-5.4.1900
+    - tristanmcpherson-R2API-4.3.21
+    - bbepis-BepInExPack-5.4.1905
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 4
-    patch: 1
+    patch: 2
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\AceOfShades-QuickRestart\icon.png
@@ -940,7 +916,7 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 1
+    patch: 2
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\RedMushie-RedsSacrifice\icon.png
@@ -979,15 +955,15 @@
   installMode: managed
   loaders: []
   dependencies:
-    - bbepis-BepInExPack-5.4.1903
-    - tristanmcpherson-R2API-4.1.1
+    - bbepis-BepInExPack-5.4.2102
+    - tristanmcpherson-R2API-4.4.1
     - HIFU-HuntressAutoaimFix-1.0.8
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 4
-    minor: 2
-    patch: 1
+    major: 5
+    minor: 0
+    patch: 0
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\HIFU-HIFUHuntressTweaks\icon.png
@@ -1066,7 +1042,8 @@
   authorName: ThinkInvis
   websiteUrl: https://thunderstore.io/package/ThinkInvis/TILER2/
   displayName: TILER2
-  description: ThinkInvisible's Library of Extras for RoR2.
+  description: ThinkInvisible's Library of Extras for RoR2 --
+    modularization/boilerplate and multiplayer config sync tools for other mods.
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -1074,13 +1051,13 @@
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.1902
-    - tristanmcpherson-R2API-4.3.21
+    - tristanmcpherson-R2API-4.4.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 7
-    minor: 1
-    patch: 0
+    minor: 3
+    patch: 2
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\ThinkInvis-TILER2\icon.png
@@ -1166,14 +1143,14 @@
   installMode: managed
   loaders: []
   dependencies:
-    - bbepis-BepInExPack-5.4.1902
-    - tristanmcpherson-R2API-4.3.2
+    - bbepis-BepInExPack-5.4.1905
+    - tristanmcpherson-R2API-4.4.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 6
-    patch: 9
+    minor: 8
+    patch: 4
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\EnforcerGang-MinerUnearthed\icon.png
@@ -1196,8 +1173,8 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 5
-    patch: 10
+    minor: 6
+    patch: 2
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Paladin_Alliance-PaladinMod\icon.png
@@ -1246,8 +1223,8 @@
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 5
-    patch: 12
+    minor: 6
+    patch: 1
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\XoXFaby-BetterUI\icon.png
@@ -1272,7 +1249,7 @@
   versionNumber:
     major: 2
     minor: 7
-    patch: 1
+    patch: 2
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\FunkFrog-and-Sipondo-ShareSuite\icon.png
@@ -1289,14 +1266,14 @@
   installMode: managed
   loaders: []
   dependencies:
-    - bbepis-BepInExPack-5.4.1903
-    - tristanmcpherson-R2API-4.3.5
+    - bbepis-BepInExPack-5.4.2102
+    - tristanmcpherson-R2API-4.4.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 13
-    patch: 6
+    patch: 8
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\MagnusMagnuson-BiggerBazaar\icon.png
@@ -1363,8 +1340,8 @@
   optionalDependencies: []
   versionNumber:
     major: 4
-    minor: 3
-    patch: 21
+    minor: 4
+    patch: 1
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\tristanmcpherson-R2API\icon.png
@@ -1521,13 +1498,13 @@
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.1905
-    - tristanmcpherson-R2API-4.3.5
+    - tristanmcpherson-R2API-4.4.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 2
-    patch: 1
+    patch: 4
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\kking117-ConsumedBuff\icon.png
@@ -1550,7 +1527,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 2
+    patch: 3
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\BetterPing-PingItemDescription\icon.png
@@ -1559,8 +1536,8 @@
   authorName: HIFU
   websiteUrl: https://thunderstore.io/package/HIFU/Inferno/
   displayName: Inferno
-  description: Mastery skins coming soon!? A hard unique difficulty that changes
-    enemy skills, AI and other things.
+  description: A hard unique difficulty that changes enemy skills, AI and other
+    things. Now with 3 Mastery Skins
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -1568,15 +1545,16 @@
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.1905
-    - tristanmcpherson-R2API-4.3.21
+    - tristanmcpherson-R2API-4.4.1
     - Moffein-AI_Blacklist-1.4.5
-    - Rune580-Risk_Of_Options-2.5.0
+    - Rune580-Risk_Of_Options-2.5.3
+    - KingEnderBrine-LobbySkinsFix-1.2.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 1
-    patch: 6
+    minor: 4
+    patch: 1
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\HIFU-Inferno\icon.png
@@ -1622,8 +1600,8 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 4
-    patch: 5
+    minor: 5
+    patch: 0
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Moffein-AI_Blacklist\icon.png
@@ -1669,7 +1647,7 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 1
+    minor: 2
     patch: 0
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
@@ -1686,14 +1664,14 @@
   installMode: managed
   loaders: []
   dependencies:
-    - bbepis-BepInExPack-5.4.1903
+    - bbepis-BepInExPack-5.4.1905
     - RiskofThunder-HookGenPatcher-1.2.3
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 2
     minor: 8
-    patch: 3
+    patch: 7
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\KingEnderBrine-ProperSave\icon.png
@@ -1710,12 +1688,13 @@
   installMode: managed
   loaders: []
   dependencies:
-    - bbepis-BepInExPack-5.4.1903
+    - bbepis-BepInExPack-5.4.1905
+    - tristanmcpherson-R2API-4.3.21
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 2
+    minor: 3
     patch: 0
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
@@ -1732,14 +1711,13 @@
   installMode: managed
   loaders: []
   dependencies:
-    - bbepis-BepInExPack-5.4.1903
-    - RiskofThunder-HookGenPatcher-1.2.3
+    - bbepis-BepInExPack-5.4.1905
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 2
     minor: 5
-    patch: 0
+    patch: 3
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Rune580-Risk_Of_Options\icon.png
@@ -1772,7 +1750,7 @@
   websiteUrl: https://thunderstore.io/package/GEMO/AllCommandoSkinsPack/
   displayName: AllCommandoSkinsPack
   description: "A skin pack allowing for most survivors to have their own Commando
-    cosplay! [ Now featuring : MUL-T ]"
+    cosplay! [ Now featuring : Classic Commando ]"
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -1786,7 +1764,7 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 4
+    minor: 5
     patch: 0
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
@@ -1804,13 +1782,14 @@
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.1905
-    - tristanmcpherson-R2API-4.3.21
+    - tristanmcpherson-R2API-4.4.1
+    - Rune580-Risk_Of_Options-2.5.3
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 8
-    patch: 0
+    minor: 10
+    patch: 13
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Risky_Lives-RiskyMod\icon.png
@@ -1850,13 +1829,13 @@
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.1905
-    - tristanmcpherson-R2API-4.3.21
+    - tristanmcpherson-R2API-4.4.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 5
-    patch: 1
+    minor: 6
+    patch: 0
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Moffein-Risky_Artifacts\icon.png
@@ -1865,8 +1844,7 @@
   authorName: 1nsider
   websiteUrl: https://thunderstore.io/package/1nsider/1nsiderItems/
   displayName: 1nsiderItems
-  description: A small handful of things (items/artifacts) that may or may not
-    make things weird. Not done, kinda buggy.
+  description: A mod that adds in new 33 new items and 2 new artifacts. Now with configs!
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -1881,7 +1859,7 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 13
+    patch: 15
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\1nsider-1nsiderItems\icon.png
@@ -1897,14 +1875,15 @@
   installMode: managed
   loaders: []
   dependencies:
-    - tristanmcpherson-R2API-4.3.21
+    - tristanmcpherson-R2API-4.4.1
     - bbepis-BepInExPack-5.4.1902
+    - RumblingJOSEPH-VoidItemAPI-1.1.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 0
-    minor: 2
-    patch: 2
+    major: 1
+    minor: 0
+    patch: 1
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\hex3-Hex3Mod\icon.png
@@ -1927,7 +1906,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 1
+    patch: 2
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Bubbet-NetworkedTimedBuffs\icon.png
@@ -1998,7 +1977,8 @@
     minor: 1
     patch: 1
   enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Polly-Accretion_Text_Overrides\1.1.1\icon.png
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
+    Testing\BepInEx\plugins\Polly-Accretion_Text_Overrides\icon.png
 - manifestVersion: 1
   name: Bubbet-PickupDiscoveryPatch
   authorName: Bubbet
@@ -2179,7 +2159,177 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 0
+    patch: 12
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Zenithrium-VanillaVoid\icon.png
+- manifestVersion: 1
+  name: KrononConspirator-Thy_Providence
+  authorName: KrononConspirator
+  websiteUrl: https://thunderstore.io/package/KrononConspirator/Thy_Providence/
+  displayName: Thy_Providence
+  description: Return of the Protectorate of Petrichor V, bulwark of the Weak
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.9
+    - tristanmcpherson-R2API-4.3.2
+    - KingEnderBrine-LobbySkinsFix-1.2.0
+    - Paladin_Alliance-PaladinMod-1.5.8
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
+    Testing\BepInEx\plugins\KrononConspirator-Thy_Providence\icon.png
+- manifestVersion: 1
+  name: KomradeSpectre-Aetherium
+  authorName: KomradeSpectre
+  websiteUrl: https://thunderstore.io/package/KomradeSpectre/Aetherium/
+  displayName: Aetherium
+  description: A mod that currently adds tons of all new items, equipment,
+    artifacts, and more to ROR2! SOTV patch update!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.1905
+    - tristanmcpherson-R2API-4.3.21
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 6
+    patch: 8
+  enabled: true
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
+    Testing\BepInEx\plugins\KomradeSpectre-Aetherium\icon.png
+- manifestVersion: 1
+  name: Moffein-FixDamageTrailNullref
+  authorName: Moffein
+  websiteUrl: https://thunderstore.io/package/Moffein/FixDamageTrailNullref/
+  displayName: FixDamageTrailNullref
+  description: Fixes nullref spam from Archaic Wisp projectiles.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.1905
+    - RiskofThunder-HookGenPatcher-1.2.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
+    Testing\BepInEx\plugins\Moffein-FixDamageTrailNullref\icon.png
+- manifestVersion: 1
+  name: HIFU-UltimateCustomRun
+  authorName: HIFU
+  websiteUrl: https://thunderstore.io/package/HIFU/UltimateCustomRun/
+  displayName: UltimateCustomRun
+  description: An early alpha of a behemoth mod that lets you configure nearly all
+    items, equipment, stats and skilldefs (for now).
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.2101
+    - tristanmcpherson-R2API-4.4.1
+    - Rune580-Risk_Of_Options-2.5.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 2
+    patch: 5
+  enabled: true
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
+    Testing\BepInEx\plugins\HIFU-UltimateCustomRun\icon.png
+- manifestVersion: 1
+  name: Bog-Pathfinder
+  authorName: Bog
+  websiteUrl: https://thunderstore.io/package/Bog/Pathfinder/
+  displayName: Pathfinder
+  description: (Early Access) Adds The Pathfinder as a playable survivor. The
+    Pathfinder is an interplanetary hunter who fights alongside his falcon,
+    Squall.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.1905
+    - tristanmcpherson-R2API-4.4.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 3
+    patch: 2
+  enabled: true
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
+    Testing\BepInEx\plugins\Bog-Pathfinder\icon.png
+- manifestVersion: 1
+  name: DestroyedClone-FasterPickupText
+  authorName: DestroyedClone
+  websiteUrl: https://thunderstore.io/package/DestroyedClone/FasterPickupText/
+  displayName: FasterPickupText
+  description: Adds options to change pickup notification durations. Now includes
+    New, First Stack, and Subsequent Stacks duration.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.1902
+    - tristanmcpherson-R2API-4.0.11
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
+    Testing\BepInEx\plugins\DestroyedClone-FasterPickupText\icon.png
+- manifestVersion: 1
+  name: HIFU-StageAesthetic
+  authorName: HIFU
+  websiteUrl: https://thunderstore.io/package/HIFU/StageAesthetic/
+  displayName: StageAesthetic
+  description: Adds randomly-selected color schemes to stages. (0.4.0 - High
+    quality variants :eyes:)
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.2102
+    - tristanmcpherson-R2API-4.4.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 4
+    patch: 1
+  enabled: true
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
+    Testing\BepInEx\plugins\HIFU-StageAesthetic\icon.png

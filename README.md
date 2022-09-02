@@ -67,6 +67,11 @@ CHANGELOG
     - Stun radius increased to 8m, up from 6m.
     - Uptime reduced to 12s, down from 18s.
     - Cooldown reduced to 16s, down from 24s.
+- **1NSIDER ITEMS**:
+  - **NEW:** Near-Empty Deck - Gain a small armor boost for 0.25 (+0.25) seconds after using any ability.
+  - **NEW:** Chiseled Football - Instantly kill any enemy. Lose the item afterwards.
+  - **NEW:** Tumorous Bread - Heal for 20% (+10%) of your maximum health when beginning a teleporter event.
+  - **NEW:** Nanomachine - Gain protection for 2 (+1) seconds when being hit to low health.
 - **TINKER'S SATCHEL ITEMS**:
   - **NEW:** Fudge Dice (Uncommon) - Every 20 seconds, automatically succeed on a random roll.
   - **NEW:** Celestial Gambit (Lunar) - Gain an extra item from the teleporter... BUT the teleporter zone weakens you (50% reduced healing per stack, no jumping).
@@ -91,6 +96,8 @@ CHANGELOG
 - Added *FasterPickupText* by DestroyedClone, changing the duration of pickup notifications.
 -- Changed values:
 - Added *Aetherium* by KomradeSpectre (and the rest of the contributors!). Adds a great deal of content including items, artifacts, and even a new Elite type.
+  - Please see [the Thunderstore page](https://thunderstore.io/package/KomradeSpectre/Aetherium/) for more details on what the mod adds; there's too much to duplicate it here!
+- Added *Scavenger Bingo*! "A gamemode that randomly generates a challenge board for each run. Complete a row of 5 spaces horizontally, vertically, or diagonally on your board to get a bingo. Winning or losing without achieving a bingo will reset your run to Ground Zero."
 - Removed *Melting Pot* by Shasocais. Never received the polish I hoped it would, hopefully will be able to add back later!
 
 - Added a new skin for Paladin.

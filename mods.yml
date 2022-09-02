@@ -1876,14 +1876,14 @@
   loaders: []
   dependencies:
     - tristanmcpherson-R2API-4.4.1
-    - bbepis-BepInExPack-5.4.1902
+    - bbepis-BepInExPack-5.4.2102
     - RumblingJOSEPH-VoidItemAPI-1.1.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
-    patch: 1
+    minor: 1
+    patch: 0
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\hex3-Hex3Mod\icon.png
@@ -2308,3 +2308,73 @@
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\HIFU-StageAesthetic\icon.png
+- manifestVersion: 1
+  name: HIFU-HIFULoaderTweaks
+  authorName: HIFU
+  websiteUrl: https://thunderstore.io/package/HIFU/HIFULoaderTweaks/
+  displayName: HIFULoaderTweaks
+  description: Reset your configs! Tweaks Loader to be more interesting and balanced.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.2102
+    - tristanmcpherson-R2API-4.4.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
+    Testing\BepInEx\plugins\HIFU-HIFULoaderTweaks\icon.png
+- manifestVersion: 1
+  name: TheTimesweeper-Tesla_Trooper
+  authorName: TheTimesweeper
+  websiteUrl: https://thunderstore.io/package/TheTimesweeper/Tesla_Trooper/
+  displayName: Tesla_Trooper
+  description: Checking Connection. Adds the Tesla Trooper, based on Red Alert 2,
+    themed around RoR2. | New skin and VR!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.2101
+    - tristanmcpherson-R2API-4.4.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 1
+  enabled: true
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
+    Testing\BepInEx\plugins\TheTimesweeper-Tesla_Trooper\icon.png
+- manifestVersion: 1
+  name: cbrl-ShrineOfDisorder
+  authorName: cbrl
+  websiteUrl: https://thunderstore.io/package/cbrl/ShrineOfDisorder/
+  displayName: ShrineOfDisorder
+  description: Modifies the Shrine of Order behavior for more fun and less pain.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.9
+    - tristanmcpherson-R2API-4.0.11
+    - RiskofThunder-HookGenPatcher-1.2.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 4
+  enabled: true
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\cbrl-ShrineOfDisorder\1.1.4\icon.png

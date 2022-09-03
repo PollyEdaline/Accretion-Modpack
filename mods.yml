@@ -96,29 +96,6 @@
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Wolfo-WolfoQualityOfLife\icon.png
 - manifestVersion: 1
-  name: Foldex-ArtiTweaks
-  authorName: Foldex
-  websiteUrl: https://thunderstore.io/package/Foldex/ArtiTweaks/
-  displayName: ArtiTweaks
-  description: Configurable tweaks for Artificer
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - bbepis-BepInExPack-5.4.1903
-    - tristanmcpherson-R2API-4.0.11
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 1
-    patch: 0
-  enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
-    Testing\BepInEx\plugins\Foldex-ArtiTweaks\icon.png
-- manifestVersion: 1
   name: KrononConspirator-MadVeteran_Skinpack
   authorName: KrononConspirator
   websiteUrl: https://thunderstore.io/package/KrononConspirator/MadVeteran_Skinpack/
@@ -2332,30 +2309,6 @@
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\HIFU-HIFULoaderTweaks\icon.png
 - manifestVersion: 1
-  name: TheTimesweeper-Tesla_Trooper
-  authorName: TheTimesweeper
-  websiteUrl: https://thunderstore.io/package/TheTimesweeper/Tesla_Trooper/
-  displayName: Tesla_Trooper
-  description: Checking Connection. Adds the Tesla Trooper, based on Red Alert 2,
-    themed around RoR2. | New skin and VR!
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - bbepis-BepInExPack-5.4.2101
-    - tristanmcpherson-R2API-4.4.1
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 2
-    patch: 1
-  enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
-    Testing\BepInEx\plugins\TheTimesweeper-Tesla_Trooper\icon.png
-- manifestVersion: 1
   name: cbrl-ShrineOfDisorder
   authorName: cbrl
   websiteUrl: https://thunderstore.io/package/cbrl/ShrineOfDisorder/
@@ -2469,4 +2422,5 @@
     minor: 1
     patch: 2
   enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\PioneerShark-RailgunnerNerfed\1.1.2\icon.png
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
+    Testing\BepInEx\plugins\PioneerShark-RailgunnerNerfed\icon.png

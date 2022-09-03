@@ -67,6 +67,8 @@ CHANGELOG
     - Stun radius increased to 8m, up from 6m.
     - Uptime reduced to 12s, down from 18s.
     - Cooldown reduced to 16s, down from 24s.
+- **LOADER**:
+  - Now uses [HIFU's Loader Tweaks](https://thunderstore.io/package/HIFU/HIFULoaderTweaks/) mod. Makes a lot of tweaks and changes, see the mod page for full details.
 - **1NSIDER ITEMS**:
   - **NEW:** Near-Empty Deck - Gain a small armor boost for 0.25 (+0.25) seconds after using any ability.
   - **NEW:** Chiseled Football - Instantly kill any enemy. Lose the item afterwards.
@@ -99,8 +101,7 @@ CHANGELOG
   - Please see [the Thunderstore page](https://thunderstore.io/package/KomradeSpectre/Aetherium/) for more details on what the mod adds; there's too much to duplicate it here!
 - Added *Scavenger Bingo*! "A gamemode that randomly generates a challenge board for each run. Complete a row of 5 spaces horizontally, vertically, or diagonally on your board to get a bingo. Winning or losing without achieving a bingo will reset your run to Ground Zero."
 - Removed *Melting Pot* by Shasocais. Never received the polish I hoped it would, hopefully will be able to add back later!
-
-- Added a new skin for Paladin.
+- Removed *ArtiTweaks* as it's no longer needed.
 
 **3.0.2**
 - Added a [community](https://pollychan.itch.io/accretion-modpack/community) on itch.io where people can post feedback and report bugs.

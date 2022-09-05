@@ -9,16 +9,16 @@ ACCRETION
 This modpack is intended to be played from either an existing save or a brand new save. New players to the game should ideally have an experience that is at least as stable as vanilla, while still being able to unlock everything they would normally be able to unlock. Veteran players will find a significant amount of new content and changes to play around with.
 
 Currently adds:
-- 5 Survivors.
-- 75+ Items.
-- 22 Artifacts.
-- 3 Enemies.
-- 2 Bosses.
-- 45+ Skins.
-- 6 Difficulties.
+- A few new survivors.
+- Tons of new items.
+- A bunch of new Artifacts to tackle.
+- A few extra enemies and bosses
+- A whole ton of new skins from talented artists.
+- New difficulties, including the deadly Inferno difficulty.
 - Offline Prismatic Trials.
+- A new Scavenger Bingo mode.
 
-Many of the changes come from the excellent RiskyMod by Moffein. The changes have been mirrored in the full changelog below, but you are encouraged to check out the mod on the Thunderstore, which also links to a full changelog that goes into further detail about the design philosophy of the overhaul.
+Many of the changes to the base game come from the excellent RiskyMod by Moffein. The changes have been mirrored in the full changelog below, but you are encouraged to check out the mod on the Thunderstore, which also links to a full changelog that goes into further detail about the design philosophy of the overhaul.
 
 <https://thunderstore.io/package/Risky_Lives/RiskyMod/>
 
@@ -32,6 +32,8 @@ CHANGELIST
 ----------
 
 Due to the extensive number of changes, the full changelog is kept in a separate document.
+
+NOTE: This changelog is currently a bit outdated as of 4.0.0. It's a lot of work to maintain, but I'll get around to it.
 
 [Full Changelog](https://docs.google.com/document/d/1GXYCsytmH1DupGy7YKiLaJOb5AGFLu3Hhd8o8UL8JU4/edit?usp=sharing)
 

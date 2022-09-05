@@ -442,7 +442,7 @@
   versionNumber:
     major: 1
     minor: 7
-    patch: 3
+    patch: 4
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Moffein-EliteReworks\icon.png
@@ -708,29 +708,6 @@
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\VanillaChai-Quality_of_Rain\icon.png
 - manifestVersion: 1
-  name: TheMysticSword-CheatUnlocks
-  authorName: TheMysticSword
-  websiteUrl: https://thunderstore.io/package/TheMysticSword/CheatUnlocks/
-  displayName: CheatUnlocks
-  description: Right-click unlockables to unlock them. AFFECTS STEAM/EGS ACHIEVEMENTS!
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - bbepis-BepInExPack-5.4.19
-    - RiskofThunder-HookGenPatcher-1.2.3
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 4
-  enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
-    Testing\BepInEx\plugins\TheMysticSword-CheatUnlocks\icon.png
-- manifestVersion: 1
   name: Moffein-EnigmaBlacklist
   authorName: Moffein
   websiteUrl: https://thunderstore.io/package/Moffein/EnigmaBlacklist/
@@ -802,29 +779,6 @@
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\DestroyedClone-HealthbarImmune\icon.png
-- manifestVersion: 1
-  name: DestroyedClone-HideHuntressTracker
-  authorName: DestroyedClone
-  websiteUrl: https://thunderstore.io/package/DestroyedClone/HideHuntressTracker/
-  displayName: HideHuntressTracker
-  description: 1.0.2 - SOTV, removed r2api dep | Hides Huntress' misleading
-    tracker if she has the Visions and Hooks of Heresy.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - bbepis-BepInExPack-5.4.1902
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 2
-  enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
-    Testing\BepInEx\plugins\DestroyedClone-HideHuntressTracker\icon.png
 - manifestVersion: 1
   name: Liamono-Fem_Commando
   authorName: Liamono
@@ -925,7 +879,8 @@
   authorName: HIFU
   websiteUrl: https://thunderstore.io/package/HIFU/HIFUHuntressTweaks/
   displayName: HIFUHuntressTweaks
-  description: Tweaks Huntress to be more in line with other survivors.
+  description: Reset your configs! Tweaks Huntress to have more damage, be more
+    fun and less crutchy.
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -940,7 +895,7 @@
   versionNumber:
     major: 5
     minor: 0
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\HIFU-HIFUHuntressTweaks\icon.png
@@ -1127,7 +1082,7 @@
   versionNumber:
     major: 1
     minor: 8
-    patch: 4
+    patch: 6
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\EnforcerGang-MinerUnearthed\icon.png
@@ -1295,7 +1250,7 @@
   versionNumber:
     major: 1
     minor: 7
-    patch: 5
+    patch: 6
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\KingEnderBrine-ScrollableLobbyUI\icon.png
@@ -1860,7 +1815,7 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\hex3-Hex3Mod\icon.png
@@ -1912,28 +1867,6 @@
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\PlasmaCore3-Forgotten_Relics\icon.png
 - manifestVersion: 1
-  name: Harb-AssetPlusRequester
-  authorName: Harb
-  websiteUrl: https://thunderstore.io/package/Harb/AssetPlusRequester/
-  displayName: AssetPlusRequester
-  description: Tell R2API to enable the AssetPlus module
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - tristanmcpherson-R2API-2.3.22
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 0
-  enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
-    Testing\BepInEx\plugins\Harb-AssetPlusRequester\icon.png
-- manifestVersion: 1
   name: Polly-Accretion_Text_Overrides
   authorName: Polly
   websiteUrl: https://thunderstore.io/package/Polly/Accretion_Text_Overrides/
@@ -1945,14 +1878,13 @@
   packageType: other
   installMode: managed
   loaders: []
-  dependencies:
-    - Harb-AssetPlusRequester-1.0.0
+  dependencies: []
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 1
-    patch: 1
+    patch: 2
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Polly-Accretion_Text_Overrides\icon.png
@@ -2002,30 +1934,6 @@
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Rune580-StopStealingMyMouse\icon.png
-- manifestVersion: 1
-  name: Shasocais-Melting_Pot
-  authorName: Shasocais
-  websiteUrl: https://thunderstore.io/package/Shasocais/Melting_Pot/
-  displayName: Melting_Pot
-  description: A W.I.P Mish-Mash
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - bbepis-BepInExPack-5.4.1905
-    - RiskofThunder-HookGenPatcher-1.2.3
-    - tristanmcpherson-R2API-4.3.21
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 0
-    minor: 0
-    patch: 75
-  enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
-    Testing\BepInEx\plugins\Shasocais-Melting_Pot\icon.png
 - manifestVersion: 1
   name: LexLamb-MechArtificer
   authorName: LexLamb
@@ -2266,8 +2174,7 @@
   authorName: HIFU
   websiteUrl: https://thunderstore.io/package/HIFU/StageAesthetic/
   displayName: StageAesthetic
-  description: Adds randomly-selected color schemes to stages. (0.4.0 - High
-    quality variants :eyes:)
+  description: Adds randomly-selected color schemes to stages. (0.5.0 - Networking)
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -2280,7 +2187,7 @@
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 4
+    minor: 5
     patch: 1
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion

@@ -47,7 +47,8 @@ CHANGELOG
 ----
 **4.0.0**
 - **Generate a new profile** for this release.
-- Updated all applicable mods.
+- There's probably a lot of changes missing. Sorry about that, I tried my best to get them all.
+- Many of the below changes are the result of updates to existing mods in the pack. As always, credit to all of the amazing mod authors who make an experience like Accretion possible. All I do is make sure the cogs don't grind against one another.
 - **NEW SURVIVOR**: Pathfinder. The Pathfinder is an interplanetary hunter who fights alongside his falcon, Squall. An already highly polished survivor from Bog. Still in early access, so needs balance testing. Currently, I have implemented the following changes already.
   - Squall: Battery recharge rate while in Follow Mode increased from 1% up to 2%.
   - Squall: Battery drain rate while in Attack Mode increased from 8% up to 10%.
@@ -69,6 +70,13 @@ CHANGELOG
     - Cooldown reduced to 16s, down from 24s.
 - **LOADER**:
   - Now uses [HIFU's Loader Tweaks](https://thunderstore.io/package/HIFU/HIFULoaderTweaks/) mod. Makes a lot of tweaks and changes, see the mod page for full details.
+- **RAILGUNNER**;
+  - Railgunner's damage has been quite extreme since release. I am using PioneerShark's RailgunnerNerfed mod in order to tone down these values. Railgunner should still be powerful when played well, but hopefully less insanely powerful. Let me know if these changes feel bad.
+     - M99 Sniper damage decreased from 1000% => 600%.
+     - Bonus damage on pefect reload decreased from 500% => 300%.
+     - Supercharge damage decreased from 4000% => 2400%.
+     - Cryocharge damage decreased 2000% => 1200%.
+     - HH44 Marksman damage decreased from 400% => 350%.
 - **1NSIDER ITEMS**:
   - **NEW:** Near-Empty Deck - Gain a small armor boost for 0.25 (+0.25) seconds after using any ability.
   - **NEW:** Chiseled Football - Instantly kill any enemy. Lose the item afterwards.
@@ -102,6 +110,7 @@ CHANGELOG
 - Added *Scavenger Bingo*! "A gamemode that randomly generates a challenge board for each run. Complete a row of 5 spaces horizontally, vertically, or diagonally on your board to get a bingo. Winning or losing without achieving a bingo will reset your run to Ground Zero."
 - Removed *Melting Pot* by Shasocais. Never received the polish I hoped it would, hopefully will be able to add back later!
 - Removed *ArtiTweaks* as it's no longer needed.
+- Removed *Cheat Unlocks* to provide a more vanilla experience. Feel free to add it back yourself, though.
 
 **3.0.2**
 - Added a [community](https://pollychan.itch.io/accretion-modpack/community) on itch.io where people can post feedback and report bugs.

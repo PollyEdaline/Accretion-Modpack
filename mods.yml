@@ -442,10 +442,9 @@
   versionNumber:
     major: 1
     minor: 7
-    patch: 4
+    patch: 5
   enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
-    Testing\BepInEx\plugins\Moffein-EliteReworks\icon.png
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Moffein-EliteReworks\1.7.5\icon.png
 - manifestVersion: 1
   name: kking117-QueenGlandBuff
   authorName: kking117
@@ -1533,7 +1532,7 @@
   versionNumber:
     major: 1
     minor: 5
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Moffein-AI_Blacklist\icon.png
@@ -1720,8 +1719,8 @@
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 10
-    patch: 13
+    minor: 11
+    patch: 2
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Risky_Lives-RiskyMod\icon.png
@@ -1871,8 +1870,8 @@
   authorName: Polly
   websiteUrl: https://thunderstore.io/package/Polly/Accretion_Text_Overrides/
   displayName: Accretion_Text_Overrides
-  description: Overrides some text for the modpack Accretion, most notably some
-    Survivor overviews. Accretion 3.0.0 is now out!
+  description: Accretion 4.0.0 is now out! Overrides some text for the modpack
+    Accretion, most notably some Survivor overviews.
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -1884,7 +1883,7 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 2
+    patch: 3
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Polly-Accretion_Text_Overrides\icon.png

@@ -18,6 +18,8 @@ Currently adds:
 - Offline Prismatic Trials.
 - A new Scavenger Bingo mode.
 
+If you enjoy this modpack, please consider donating to the mod authors, or to myself. Maintaining the pack takes more effort than you might think, but it would be nothing without the hard work of all the mod authors and contributors. My donation link can be found near the top of the page, and the same can be said for any individual mod authors.
+
 Many of the changes to the base game come from the excellent RiskyMod by Moffein. The changes have been mirrored in the full changelog below, but you are encouraged to check out the mod on the Thunderstore, which also links to a full changelog that goes into further detail about the design philosophy of the overhaul.
 
 <https://thunderstore.io/package/Risky_Lives/RiskyMod/>
@@ -33,20 +35,32 @@ CHANGELIST
 
 Due to the extensive number of changes, the full changelog is kept in a separate document.
 
-NOTE: This changelog is currently a bit outdated as of 4.0.0. It's a lot of work to maintain, but I'll get around to it.
-
 [Full Changelog](https://docs.google.com/document/d/1GXYCsytmH1DupGy7YKiLaJOb5AGFLu3Hhd8o8UL8JU4/edit?usp=sharing)
 
 CONTACT
 ----
 If you would like to report bugs, make suggestions, or have any other feedback, please let me know at the itch.io community. Although I have tested the pack extensively myself, there are likely to be many bugs and balancing issues I overlooked. I will attempt to fix any bugs I can as soon as possible. I don’t play multiplayer a whole lot, so I have some difficulty testing multiplayer. If you encounter any bugs or oddities, please let me know.
 
-You can post on the [itch.io community](https://pollychan.itch.io/accretion-modpack/community) if you have any feedback or bug reports, or find others to play with. There is also a [github](https://github.com/PollyEdaline/Accretion-Modpack) if you would prefer to post issues there.
+You can post on the [itch.io community](https://pollychan.itch.io/accretion-modpack/community) if you have any feedback or bug reports, or find others to play with. There is also a [Github](https://github.com/PollyEdaline/Accretion-Modpack) if you would prefer to post issues there.
 
 I am also interested in working with an experienced mod creator on adding some additional content and tweaks to the pack. If you are willing to work with me, please let me know.
 
 CHANGELOG
 ----
+**4.1.0**
+- Added a donation link to Thunderstore, if you'd like to support me. Maintaining the pack is quite a bit of work. Make sure you also donate to the mod authors that make the pack possible!
+- Properly updated the [full change list](https://docs.google.com/document/d/1GXYCsytmH1DupGy7YKiLaJOb5AGFLu3Hhd8o8UL8JU4/), which includes all of the new items that have been added!
+- Pathfinder
+  - Squall: Battery drain rate while in Attack mode increased from 10% => 15%.
+    - *It was too low. Oops.*
+- Removed HIFU's Loader Tweaks and went back to RiskyMod's tweaks (people have told me they prefer them).
+- Disabled Lemurian's Claw from Tinker's Satchel. It's a very cool item that doesn't work well with ShareSuite.
+- Disabled Chiseled Football because even after one testing round it was way too busted.
+- Disabled 400 Tickets for now since there is currently a bug/jank where it will double Scavenger bag drops. I really like this item, so I'll re-enable it when this gets fixed.
+
+**4.0.1**
+- Fixed Readme (lol)
+
 **4.0.0**
 - **Generate a new profile** for this release.
 - There's probably a lot of changes missing. Sorry about that, I tried my best to get them all.
@@ -113,6 +127,3 @@ CHANGELOG
 - Removed *Melting Pot* by Shasocais. Never received the polish I hoped it would, hopefully will be able to add back later!
 - Removed *ArtiTweaks* as it's no longer needed.
 - Removed *Cheat Unlocks* to provide a more vanilla experience. Feel free to add it back yourself, though.
-
-**3.0.2**
-- Added a [community](https://pollychan.itch.io/accretion-modpack/community) on itch.io where people can post feedback and report bugs.

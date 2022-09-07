@@ -1205,10 +1205,9 @@
   versionNumber:
     major: 1
     minor: 13
-    patch: 8
+    patch: 9
   enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
-    Testing\BepInEx\plugins\MagnusMagnuson-BiggerBazaar\icon.png
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\MagnusMagnuson-BiggerBazaar\1.13.9\icon.png
 - manifestVersion: 1
   name: RiskofThunder-HookGenPatcher
   authorName: RiskofThunder
@@ -2308,3 +2307,26 @@
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\PioneerShark-RailgunnerNerfed\icon.png
+- manifestVersion: 1
+  name: TheMysticSword-CheatUnlocks
+  authorName: TheMysticSword
+  websiteUrl: https://thunderstore.io/package/TheMysticSword/CheatUnlocks/
+  displayName: CheatUnlocks
+  description: Right-click unlockables to unlock them. AFFECTS STEAM/EGS ACHIEVEMENTS!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.19
+    - RiskofThunder-HookGenPatcher-1.2.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 4
+  enabled: true
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
+    Testing\BepInEx\plugins\TheMysticSword-CheatUnlocks\icon.png

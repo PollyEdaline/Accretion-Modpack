@@ -18,6 +18,8 @@ Currently adds:
 - Offline Prismatic Trials.
 - A new Scavenger Bingo mode.
 
+If you enjoy this modpack, please consider donating to the mod authors, or to myself. Maintaining the pack takes more effort than you might think, but it would be nothing without the hard work of all the mod authors and contributors. My donation link can be found near the top of the page, and the same can be said for any individual mod authors.
+
 Many of the changes to the base game come from the excellent RiskyMod by Moffein. The changes have been mirrored in the full changelog below, but you are encouraged to check out the mod on the Thunderstore, which also links to a full changelog that goes into further detail about the design philosophy of the overhaul.
 
 <https://thunderstore.io/package/Risky_Lives/RiskyMod/>
@@ -47,10 +49,12 @@ CHANGELOG
 ----
 **4.1.0**
 - Added a donation link to Thunderstore, if you'd like to support me. Maintaining the pack is quite a bit of work. Make sure you also donate to the mod authors that make the pack possible!
+- Properly updated the [full change list](https://docs.google.com/document/d/1GXYCsytmH1DupGy7YKiLaJOb5AGFLu3Hhd8o8UL8JU4/), which includes all of the new items that have been added!
 - Pathfinder
   - Squall: Battery drain rate while in Attack mode increased from 10% => 15%.
-    - It was too low. Oops.
+    - *It was too low. Oops.*
 - Removed HIFU's Loader Tweaks and went back to RiskyMod's tweaks (people have told me they prefer them).
+- Disabled Lemurian's Claw from Tinker's Satchel. It's a very cool item that doesn't work well with ShareSuite.
 - Disabled Chiseled Football because even after one testing round it was way too busted.
 - Disabled 400 Tickets for now since there is currently a bug/jank where it will double Scavenger bag drops. I really like this item, so I'll re-enable it when this gets fixed.
 

@@ -33,20 +33,27 @@ CHANGELIST
 
 Due to the extensive number of changes, the full changelog is kept in a separate document.
 
-NOTE: This changelog is currently a bit outdated as of 4.0.0. It's a lot of work to maintain, but I'll get around to it.
-
 [Full Changelog](https://docs.google.com/document/d/1GXYCsytmH1DupGy7YKiLaJOb5AGFLu3Hhd8o8UL8JU4/edit?usp=sharing)
 
 CONTACT
 ----
 If you would like to report bugs, make suggestions, or have any other feedback, please let me know at the itch.io community. Although I have tested the pack extensively myself, there are likely to be many bugs and balancing issues I overlooked. I will attempt to fix any bugs I can as soon as possible. I don’t play multiplayer a whole lot, so I have some difficulty testing multiplayer. If you encounter any bugs or oddities, please let me know.
 
-You can post on the [itch.io community](https://pollychan.itch.io/accretion-modpack/community) if you have any feedback or bug reports, or find others to play with. There is also a [github](https://github.com/PollyEdaline/Accretion-Modpack) if you would prefer to post issues there.
+You can post on the [itch.io community](https://pollychan.itch.io/accretion-modpack/community) if you have any feedback or bug reports, or find others to play with. There is also a [Github](https://github.com/PollyEdaline/Accretion-Modpack) if you would prefer to post issues there.
 
 I am also interested in working with an experienced mod creator on adding some additional content and tweaks to the pack. If you are willing to work with me, please let me know.
 
 CHANGELOG
 ----
+**4.1.0**
+- Added a donation link to Thunderstore, if you'd like to support me. Maintaining the pack is quite a bit of work. Make sure you also donate to the mod authors that make the pack possible!
+- Pathfinder
+  - Squall: Battery drain rate while in Attack mode increased from 10% => 15%.
+    - It was too low. Oops.
+- Removed HIFU's Loader Tweaks and went back to RiskyMod's tweaks (people have told me they prefer them).
+- Disabled Chiseled Football because even after one testing round it was way too busted.
+- Disabled 400 Tickets for now since there is currently a bug/jank where it will double Scavenger bag drops. I really like this item, so I'll re-enable it when this gets fixed.
+
 **4.0.1**
 - Fixed Readme (lol)
 
@@ -116,6 +123,3 @@ CHANGELOG
 - Removed *Melting Pot* by Shasocais. Never received the polish I hoped it would, hopefully will be able to add back later!
 - Removed *ArtiTweaks* as it's no longer needed.
 - Removed *Cheat Unlocks* to provide a more vanilla experience. Feel free to add it back yourself, though.
-
-**3.0.2**
-- Added a [community](https://pollychan.itch.io/accretion-modpack/community) on itch.io where people can post feedback and report bugs.

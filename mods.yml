@@ -444,7 +444,8 @@
     minor: 7
     patch: 5
   enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Moffein-EliteReworks\1.7.5\icon.png
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
+    Testing\BepInEx\plugins\Moffein-EliteReworks\icon.png
 - manifestVersion: 1
   name: kking117-QueenGlandBuff
   authorName: kking117
@@ -2191,29 +2192,6 @@
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\HIFU-StageAesthetic\icon.png
-- manifestVersion: 1
-  name: HIFU-HIFULoaderTweaks
-  authorName: HIFU
-  websiteUrl: https://thunderstore.io/package/HIFU/HIFULoaderTweaks/
-  displayName: HIFULoaderTweaks
-  description: Reset your configs! Tweaks Loader to be more interesting and balanced.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - bbepis-BepInExPack-5.4.2102
-    - tristanmcpherson-R2API-4.4.1
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 1
-  enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
-    Testing\BepInEx\plugins\HIFU-HIFULoaderTweaks\icon.png
 - manifestVersion: 1
   name: cbrl-ShrineOfDisorder
   authorName: cbrl

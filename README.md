@@ -109,6 +109,7 @@ As always, mod patch notes are often truncated or left out entirely when updated
 - Logbook entry added for Ancient Wisp.
 - Logbook entry added for Clay Man.
 - New Stage Aethstetics have been added.
+- Finally increased number of rows in character select to 3 (should have been done a while ago, sorry about that).
 - R2API seems to have been split into a billion modules. I'm sure it's fine, but let me know if it isn't.
 
 **4.1.0**

@@ -143,29 +143,6 @@
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Xatha-SoCRebalancePlugin\icon.png
 - manifestVersion: 1
-  name: EnforcerGang-HAND_OVERCLOCKED
-  authorName: EnforcerGang
-  websiteUrl: https://thunderstore.io/package/EnforcerGang/HAND_OVERCLOCKED/
-  displayName: HAND_OVERCLOCKED
-  description: Adds HAN-D from Risk of Rain 1. Multiplayer-compatible!
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - bbepis-BepInExPack-5.4.1905
-    - tristanmcpherson-R2API-4.4.1
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 0
-    minor: 2
-    patch: 7
-  enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
-    Testing\BepInEx\plugins\EnforcerGang-HAND_OVERCLOCKED\icon.png
-- manifestVersion: 1
   name: Moffein-Ancient_Wisp
   authorName: Moffein
   websiteUrl: https://thunderstore.io/package/Moffein/Ancient_Wisp/
@@ -216,8 +193,7 @@
   authorName: dotflare
   websiteUrl: https://thunderstore.io/package/dotflare/LostThroughTimeSkinPack/
   displayName: LostThroughTimeSkinPack
-  description: Skins that depict the RoR2 survivors throughout different periods
-    of history. Probably last content update.
+  description: Guess who's back, back again
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -231,7 +207,7 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 1
+    patch: 2
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\dotflare-LostThroughTimeSkinPack\icon.png
@@ -241,7 +217,7 @@
   websiteUrl: https://thunderstore.io/package/EnforcerGang/Enforcer/
   displayName: Enforcer
   description: Adds the Enforcer from Risk of Rain 1 as a fully fleshed out
-    playable survivor. | Full VR support!
+    playable survivor.
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -249,13 +225,19 @@
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.1905
-    - tristanmcpherson-R2API-4.3.21
+    - RiskofThunder-R2API_Core-5.0.3
+    - RiskofThunder-R2API_Prefab-1.0.1
+    - RiskofThunder-R2API_RecalculateStats-1.0.0
+    - RiskofThunder-R2API_Unlockable-1.0.0
+    - RiskofThunder-R2API_Director-1.0.0
+    - RiskofThunder-R2API_DamageType-1.0.0
+    - RiskofThunder-R2API_Language-1.0.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 3
-    minor: 5
-    patch: 0
+    minor: 7
+    patch: 4
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\EnforcerGang-Enforcer\icon.png
@@ -273,13 +255,13 @@
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.1905
-    - tristanmcpherson-R2API-4.4.1
+    - RiskofThunder-R2API_Language-1.0.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
-    patch: 7
+    minor: 1
+    patch: 0
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\HIFU-HIFUEngineerTweaks\icon.png
@@ -301,8 +283,8 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 4
-    patch: 5
+    minor: 5
+    patch: 2
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Moffein-Clay_Men\icon.png
@@ -2909,3 +2891,26 @@
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\RiskofThunder-R2API_ArtifactCode\icon.png
+- manifestVersion: 1
+  name: EnforcerGang-HAND_OVERCLOCKED
+  authorName: EnforcerGang
+  websiteUrl: https://thunderstore.io/package/EnforcerGang/HAND_OVERCLOCKED/
+  displayName: HAND_OVERCLOCKED
+  description: Adds HAN-D, the classic robot janitor from Risk of Rain 1.
+    Multiplayer-compatible!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.1905
+    - tristanmcpherson-R2API-4.4.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 1
+  enabled: true
+  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\EnforcerGang-HAND_OVERCLOCKED\1.2.1\icon.png

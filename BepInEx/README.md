@@ -47,6 +47,9 @@ I am also interested in working with an experienced mod creator on adding some a
 
 CHANGELOG
 ----
+**4.1.1**
+- Re-enabled ShareSuite's rich messages since they FINALLY fixed the bug with it.
+
 **4.1.0**
 - Added a donation link to Thunderstore, if you'd like to support me. Maintaining the pack is quite a bit of work. Make sure you also donate to the mod authors that make the pack possible!
 - Properly updated the [full change list](https://docs.google.com/document/d/1GXYCsytmH1DupGy7YKiLaJOb5AGFLu3Hhd8o8UL8JU4/), which includes all of the new items that have been added!

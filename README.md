@@ -47,6 +47,70 @@ I am also interested in working with an experienced mod creator on adding some a
 
 CHANGELOG
 ----
+**4.2.0**
+As always, mod patch notes are often truncated or left out entirely when updated. Be sure to check individual mod pages for more details. I have tried to include the most relevant changes here.
+
+- RiskyMod
+    - A lot of changes. Reminder to myself to look through them.
+    - Transcendence
+        - Reduced shield regen delay penalty from 1s (+1s) -> 0s (+0.5s).
+    - Ben's Raincoat
+        - Increased barrier gain from 10% -> 25%.
+    - Captain
+        - Beacon: Hacking
+            - Increased price reduction from -40% -> -50%.
+            - Now rounds final price upwards instead of downwards.
+- Voidtouched Elites
+    - Nullify now roots at 2 stacks.
+- Inferno Difficulty
+    - Received many small tweaks. Be sure to check out the [patch notes](https://thunderstore.io/package/HIFU/Inferno/) for more details.
+- Bandit
+    - New dotflare skin. Hooray!
+- Enforcer
+    - Survivors of the Void item displays were added.
+- HAN-D
+    - Completely redone with new code, model, anims, and alternate abilities.
+- Miner
+    - Crack Hamer
+        - Increased hitbox size.
+        - Increased blast radius from 10m -> 12m
+        - Increased damage from 2x200% -> 2x240%.
+        - Removed chargeup since it didn't actually do anything.
+        - Increased shorthop velocity on hit from 12 -> 24.
+- Paladin
+    - Cruel Sun
+        - Now scales with attack speed.
+- Forgotten Relics Mod
+    - Added Sage's Shrine.
+    - Added Empyrean Braces.
+- Hex3Mod
+    - Added a lot of items and reworks. Requires testing.
+- MysticsItems
+    - Added a bunch of new items. Requires testing.
+    - Platinum Card
+        - Reduced discount from 100% -> 75.
+    - Super Idol
+        - Gold cap reduced from 1200 -> 800.
+    - Crystallized World
+        - Freeze duration reduced from 7s -> 5s.
+    - Nuclear Accelerator
+        - No longer gives bonus damage for sprinting.
+            - This was likely changed because most players are sprinting constantly anyway; this makes the item's damage increase more consistent.
+- VanillaVoid
+    - A bunch of new items. Requires testing.
+- NEW: Artifact of the Phantom
+    - The Phantom King of Nothing hunts you down if you spend too long on a stage.
+        - Spawns after spending 4.5-6 minutes on a stage.
+        - 12,000 HP, 300% damage.
+        - Immune to Void Fog and fall damage.
+        - Can die to Void Reaver bubbles.
+        - Drops an Irradiant Pearl and 5 Lunar Coins when killed.
+        - Begins ravaging the map with explosions after death.
+- Logbook entry added for Ancient Wisp.
+- Logbook entry added for Clay Man.
+- New Stage Aethstetics have been added.
+- R2API seems to have been split into a billion modules. I'm sure it's fine, but let me know if it isn't.
+
 **4.1.0**
 - Added a donation link to Thunderstore, if you'd like to support me. Maintaining the pack is quite a bit of work. Make sure you also donate to the mod authors that make the pack possible!
 - Properly updated the [full change list](https://docs.google.com/document/d/1GXYCsytmH1DupGy7YKiLaJOb5AGFLu3Hhd8o8UL8JU4/), which includes all of the new items that have been added!

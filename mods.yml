@@ -393,29 +393,6 @@
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\duckduckgreyduck-HuntressBuffULTIMATE\icon.png
 - manifestVersion: 1
-  name: SpikestripModding-More_Difficulties
-  authorName: SpikestripModding
-  websiteUrl: https://thunderstore.io/package/SpikestripModding/More_Difficulties/
-  displayName: More_Difficulties
-  description: Adds 5 new difficulties to Risk of Rain 2. Now updated for SoTV.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - bbepis-BepInExPack-5.4.9
-    - tristanmcpherson-R2API-3.0.52
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 2
-    patch: 1
-  enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
-    Testing\BepInEx\plugins\SpikestripModding-More_Difficulties\icon.png
-- manifestVersion: 1
   name: kking117-QueenGlandBuff
   authorName: kking117
   websiteUrl: https://thunderstore.io/package/kking117/QueenGlandBuff/
@@ -1779,38 +1756,6 @@
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\1nsider-1nsiderItems\icon.png
 - manifestVersion: 1
-  name: hex3-Hex3Mod
-  authorName: hex3
-  websiteUrl: https://thunderstore.io/package/hex3/Hex3Mod/
-  displayName: Hex3Mod
-  description: Adds 25 new items. Fully configurable, now with Risk Of Options!
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - RiskofThunder-R2API_Core-5.0.1
-    - RiskofThunder-R2API_Items-1.0.1
-    - RiskofThunder-R2API_Language-1.0.0
-    - RiskofThunder-R2API_RecalculateStats-1.0.0
-    - RiskofThunder-R2API_Prefab-1.0.1
-    - RiskofThunder-R2API_ContentManagement-1.0.1
-    - RiskofThunder-R2API_Networking-1.0.0
-    - RiskofThunder-R2API_Unlockable-1.0.0
-    - bbepis-BepInExPack-5.4.2103
-    - Rune580-Risk_Of_Options-2.5.3
-    - RumblingJOSEPH-VoidItemAPI-1.1.0
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 2
-    minor: 1
-    patch: 0
-  enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
-    Testing\BepInEx\plugins\hex3-Hex3Mod\icon.png
-- manifestVersion: 1
   name: Bubbet-NetworkedTimedBuffs
   authorName: Bubbet
   websiteUrl: https://thunderstore.io/package/Bubbet/NetworkedTimedBuffs/
@@ -2119,31 +2064,6 @@
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Moffein-FixDamageTrailNullref\icon.png
-- manifestVersion: 1
-  name: Bog-Pathfinder
-  authorName: Bog
-  websiteUrl: https://thunderstore.io/package/Bog/Pathfinder/
-  displayName: Pathfinder
-  description: (Early Access) Adds The Pathfinder as a playable survivor. The
-    Pathfinder is an interplanetary hunter who fights alongside his falcon,
-    Squall.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - bbepis-BepInExPack-5.4.1905
-    - tristanmcpherson-R2API-4.4.1
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 0
-    minor: 5
-    patch: 2
-  enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
-    Testing\BepInEx\plugins\Bog-Pathfinder\icon.png
 - manifestVersion: 1
   name: DestroyedClone-FasterPickupText
   authorName: DestroyedClone
@@ -3169,37 +3089,6 @@
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Gnome-ChefMod\icon.png
 - manifestVersion: 1
-  name: TheTimesweeper-Tesla_Trooper
-  authorName: TheTimesweeper
-  websiteUrl: https://thunderstore.io/package/TheTimesweeper/Tesla_Trooper/
-  displayName: Tesla_Trooper
-  description: Find a Hot Spot. Adds two new survivors, Tesla Trooper and
-    Desolator, based on Red Alert 2, themed around RoR2.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - bbepis-BepInExPack-5.4.2101
-    - RiskofThunder-R2API_Core-5.0.3
-    - RiskofThunder-R2API_Prefab-1.0.1
-    - RiskofThunder-R2API_DamageType-1.0.0
-    - RiskofThunder-R2API_Unlockable-1.0.0
-    - RiskofThunder-R2API_RecalculateStats-1.0.0
-    - RiskofThunder-R2API_Dot-1.0.0
-    - RiskofThunder-R2API_Deployable-1.0.0
-    - RiskofThunder-R2API_Colors-1.0.0
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 2
-    minor: 1
-    patch: 4
-  enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
-    Testing\BepInEx\plugins\TheTimesweeper-Tesla_Trooper\icon.png
-- manifestVersion: 1
   name: amogus_lovers-StandaloneAncientScepter
   authorName: amogus_lovers
   websiteUrl: https://thunderstore.io/package/amogus_lovers/StandaloneAncientScepter/
@@ -3496,32 +3385,3 @@
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\DestroyedClone-BossDropRewardDelay\icon.png
-- manifestVersion: 1
-  name: SaucySquash-Spearman
-  authorName: SaucySquash
-  websiteUrl: https://thunderstore.io/package/SaucySquash/Spearman/
-  displayName: Spearman
-  description: The Melee/Range 'Hybrid' has landed, determind to seek power using
-    only his trusty spear.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - RiskofThunder-R2API_ContentManagement-1.0.0
-    - RiskofThunder-R2API_Language-1.0.0
-    - RiskofThunder-R2API_Loadout-1.0.0
-    - RiskofThunder-R2API_Networking-1.0.0
-    - RiskofThunder-R2API_Prefab-1.0.1
-    - RiskofThunder-R2API_Sound-1.0.0
-    - RiskofThunder-R2API_RecalculateStats-1.0.0
-    - RiskofThunder-R2API_DamageType-1.0.0
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 6
-  enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\SaucySquash-Spearman\1.0.6\icon.png

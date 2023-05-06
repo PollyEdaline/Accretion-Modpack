@@ -340,7 +340,7 @@
   versionNumber:
     major: 4
     minor: 0
-    patch: 2
+    patch: 3
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\ThinkInvis-TinkersSatchel\icon.png
@@ -3042,29 +3042,6 @@
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\HIFU-BetterSpite\icon.png
-- manifestVersion: 1
-  name: SpikestripModding-Spikestrip2_0
-  authorName: SpikestripModding
-  websiteUrl: https://thunderstore.io/package/SpikestripModding/Spikestrip2_0/
-  displayName: Spikestrip2_0
-  description: A content mod that should not exist. New items, monsters, skills, and more!
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - bbepis-BepInExPack-5.4.2103
-    - tristanmcpherson-R2API-5.0.3
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 1
-    patch: 0
-  enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
-    Testing\BepInEx\plugins\SpikestripModding-Spikestrip2_0\icon.png
 - manifestVersion: 1
   name: Gnome-ChefMod
   authorName: Gnome

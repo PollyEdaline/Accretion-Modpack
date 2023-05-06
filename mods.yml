@@ -1988,7 +1988,7 @@
   versionNumber:
     major: 1
     minor: 4
-    patch: 10
+    patch: 11
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\Zenithrium-VanillaVoid\icon.png
@@ -3171,77 +3171,6 @@
   enabled: true
   icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
     Testing\BepInEx\plugins\RiskofThunder-R2API_Rulebook\icon.png
-- manifestVersion: 1
-  name: Nebby-VarianceAPI
-  authorName: Nebby
-  websiteUrl: https://thunderstore.io/package/Nebby/VarianceAPI/
-  displayName: VarianceAPI
-  description: VarianceAPI allows you to create Variants for CharacterBodies,
-    Variants can have different textures, lights, skills, and more.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - TeamMoonstorm-MoonstormSharedUtils-1.3.0
-    - RiskofThunder-R2API_Rulebook-1.0.0
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 2
-    minor: 1
-    patch: 3
-  enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
-    Testing\BepInEx\plugins\Nebby-VarianceAPI\icon.png
-- manifestVersion: 1
-  name: Nebby-VariantPack_NebbysWrath
-  authorName: Nebby
-  websiteUrl: https://thunderstore.io/package/Nebby/VariantPack_NebbysWrath/
-  displayName: VariantPack_NebbysWrath
-  description: Variants from MonsterVariantsPlus, Ported to VarianceAPI.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - Nebby-VarianceAPI-2.1.1
-    - RiskofThunder-R2API_Prefab-1.0.1
-    - Moffein-FixDamageTrailNullref-1.0.0
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 2
-    minor: 0
-    patch: 2
-  enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
-    Testing\BepInEx\plugins\Nebby-VariantPack_NebbysWrath\icon.png
-- manifestVersion: 1
-  name: Nebby-VariantPack_TheOriginal30
-  authorName: Nebby
-  websiteUrl: https://thunderstore.io/package/Nebby/VariantPack_TheOriginal30/
-  displayName: VariantPack_TheOriginal30
-  description: All of Rob's Variants, ported and modified to VarianceAPI
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - Nebby-VarianceAPI-2.1.1
-    - RiskofThunder-R2API_Prefab-1.0.1
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 2
-    minor: 0
-    patch: 3
-  enabled: true
-  icon: C:\Users\Polly\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Accretion
-    Testing\BepInEx\plugins\Nebby-VariantPack_TheOriginal30\icon.png
 - manifestVersion: 1
   name: MoriyaFaith-RMOR_REFORGED
   authorName: MoriyaFaith

@@ -50,6 +50,7 @@ I am also interested in working with an experienced mod creator on adding some a
 CHANGELOG
 ----
 **5.0.0**
+
 ***GENERATE A NEW MOD MANAGER PROFILE FOR THIS RELEASE!***
 
 Many changes have been left undocumented here, but the main changelog should always have the latest changes available.
